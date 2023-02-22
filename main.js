@@ -37,4 +37,4 @@
         total_score: total_score
         };
       
-    console.log (results.total_score)
+    console.log (results)
